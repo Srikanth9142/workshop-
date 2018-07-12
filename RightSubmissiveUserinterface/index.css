@@ -1,0 +1,49 @@
+body{
+  background-color: lightgray;
+}
+.h1{
+  display:inline;
+  padding: 5px;
+  color:royalblue;
+  border-style:solid;
+  border-color: black;
+  padding:25px,50px,75px,100px;
+  
+}
+h3{
+  color:brown;
+  text-align: center;
+ 
+}
+#id1{
+  text-decoration: underline;
+}
+
+.p2{
+  color:blueviolet;
+  padding-left: 20px;
+}
+.image{
+  padding-left:80px;
+  width:300px;
+  
+}
+
+.fixed {
+    position: fixed;
+    bottom: 50;
+    right: 0;
+    width: 210px;
+    padding-left:10%;
+   
+    margin-bottom:70px;
+}
+.day1{
+  border-style:dotted;
+}
+.day2{
+  border-style:dotted;
+}
+.day3{
+  border-style:dotted;
+}
